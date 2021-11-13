@@ -1,16 +1,35 @@
+from os import name
 import requests
 from bs4 import BeautifulSoup
 
 if __name__ == "__main__":
-    keyword = input("Enter your keyword: ")
-    
-    link = "https://pubmed.ncbi.nlm.nih.gov/?term=" + keyword
+
+    file = open('data.txt', 'a')
+
+    link = r"https://en.wikipedia.org/wiki/List_of_astronauts_by_name"
     web = requests.get(link)
-
     soup = BeautifulSoup(web.text, "html.parser")
-    title = soup.select("a.labs-docsum-title")
-    author = soup.select("span.labs-docsum-authors")
-    snippet = soup.select("div.full-view-snippet")
 
-    for t, a, s in zip(title, author, snippet):
-        print(t.text.strip(), a.text.strip(), s.text.strip(), sep='\n', end='\n\n')
+    ul = soup.select('.mw-parser-output > ul')
+    for i, item in enumerate(ul):
+        li = item.select('li')
+        for it in li:
+            a = it.select('a')
+            for a_item in a:
+                if a_item.find('img'): continue # ignore those national flags
+                else: 
+                    personal_link = r'https://en.wikipedia.org' + a_item['href']
+                    personal_web = requests.get(personal_link)
+                    personal_soup = BeautifulSoup(personal_web.text, 'html.parser')
+                    
+                    try:
+                        age = personal_soup.select_one('.noprint.ForceAgeToShow')
+                        name_and_age = a_item.text + ' ' + age.text.split()[1][:-1]
+                        print(name_and_age)
+                        file.write(name_and_age + '\n')
+                    except AttributeError:
+                        pass
+                    finally:
+                        break
+
+    file.close()

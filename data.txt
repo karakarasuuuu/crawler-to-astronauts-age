@@ -1,0 +1,464 @@
+Joseph M. Acaba 54
+Loren Acton 85
+James Adamson 75
+Viktor M. Afanasyev 72
+Aydyn Aimbetov 49
+Thomas Akers 70
+Vladimir Aksyonov 86
+Buzz Aldrin 91
+Aleksandar Panayotov Aleksandrov 69
+Aleksandr Pavlovich Aleksandrov 78
+Andrew M. Allen 66
+Joseph P. Allen 84
+Scott Altman 62
+William Anders 88
+Clayton Anderson 62
+Dominic A. Antonelli 54
+Jerome Apt 72
+Lee Archambault 61
+Anatoly Artsebarsky 65
+Jeffrey Ashby 67
+Oleg Atkov 72
+Toktar Aubakirov 75
+Serena M. Auñón-Chancellor 45
+Sergei Avdeyev 65
+James P. Bagian 69
+Ellen S. Baker 68
+Michael Baker 68
+Aleksandr Balandin 68
+Michael R. Barratt 62
+Kayla Barron 34
+Daniel Barry 67
+John-David F. Bartoe 76
+Yuri Baturin 72
+Patrick Baudry 75
+Robert L. Behnken 51
+Ivan Bella 57
+John Blaha 79
+Michael J. Bloomfield 62
+Guion Bluford 78
+Karol Bobko 83
+Eric A. Boe 57
+Charles Bolden 75
+Roberta Bondar 75
+Andrei Borisenko 57
+Frank Borman 93
+Stephen G. Bowen 57
+Kenneth Bowersox 64
+Vance Brand 90
+Daniel Brandenstein 78
+Randolph Bresnik 54
+Roy Bridges 78
+Curtis Brown 65
+Mark Brown 69
+James Buchli 76
+Jay C. Buckey 65
+Nikolai Budarin 68
+Daniel Burbank 60
+Daniel Bursch 64
+Robert D. Cabana 72
+Yvonne Cagle 62
+Charles Camarda 69
+Kenneth D. Cameron 71
+Zena Cardman 34
+Duane G. Carey 64
+John Casper 78
+Josh Cassada 48
+Christopher Cassidy 51
+Robert J. Cenker 73
+Gregory Chamitoff 59
+Franklin Chang-Diaz 71
+Raja Chari 44
+Maurizio Cheli 62
+Chen Dong 42
+Leroy Chiao 61
+Kevin P. Chilton 67
+Jean-Loup Chrétien 83
+Mary L. Cleave 74
+Jean-François Clervoy 62
+Michael R. Clifford 69
+Michael Coats 75
+Kenneth Cockrell 71
+Catherine Coleman 60
+Eileen Collins 64
+Richard O. Covey 75
+Timothy Creamer 61
+John O. Creighton 78
+Robert Crippen 84
+Samantha Cristoforetti 44
+Roger K. Crouch 81
+Frank L. Culbertson, Jr. 72
+Walter Cunningham 89
+Robert Curbeam 59
+Nancy J. Currie 62
+Nancy Jan Davis 68
+Lawrence J. DeLucas 71
+Frank De Winne 60
+Vladimir N. Dezhurov 59
+Takao Doi 67
+Matthew Dominick 39
+B. Alvin Drew 59
+Pyotr Dubrov 43
+Brian Duffy 68
+Charles Duke 86
+Bonnie J. Dunbar 72
+Pedro Duque 58
+Samuel T. Durrance 78
+James Dutton 52
+Tracy Caldwell Dyson 52
+Vladimir Dzhanibekov 79
+Joe Edwards 63
+Anthony W. England 79
+Joe H. Engle 89
+Jeanette J. Epps 51
+Reinhold Ewald 64
+Léopold Eyharts 64
+John Fabian 82
+Muhammed Faris 70
+Bertalan Farkas 72
+Jean-Jacques Favier 72
+Fei Junlong 56
+Christopher Ferguson 60
+Martin J. Fettman 64
+Andrew J. Feustel 56
+Anatoly Filipchenko 93
+Michael Fincke 54
+Jack D. Fischer 47
+Anna Lee Fisher 72
+William Frederick Fisher 75
+Klaus-Dietrich Flade 69
+Michael Foale 64
+Kevin A. Ford 61
+Michael Foreman 64
+Patrick Forrester 64
+Michael Fossum 63
+Stephen Frick 57
+Dirk Frimout 80
+Christer Fuglesang 64
+Wally Funk 82
+Satoshi Furukawa 57
+F. Drew Gaffney 75
+Ronald Garan 60
+Guy Gardner 73
+Marc Garneau 72
+Charles Gemar 66
+Michael Gernhardt 65
+Alexander Gerst 45
+Edward Gibson 85
+Robert L. Gibson 75
+Yuri Gidzenko 59
+Victor Glover 45
+Linda Godwin 69
+Michael T. Good 59
+Dominic Gorie 64
+Ronald Grabe 76
+Frederick Gregory 80
+William Gregory 64
+John Grunsfeld 63
+Umberto Guidoni 67
+Jügderdemidiin Gürragchaa 73
+Sidney Gutierrez 70
+Chris Hadfield 62
+Nick Hague 46
+Claudie Haigneré 64
+Jean-Pierre Haigneré 73
+Fred Haise 87
+James Halsell 65
+Kenneth Ham 56
+Christina Hammock Koch 42
+Lloyd Hammond 69
+Jeremy Hansen 45
+Gregory Harbaugh 65
+Bernard A. Harris, Jr. 65
+Terry Hart 75
+Frederick Hauck 80
+Steven Hawley 69
+Susan Helms 63
+Thomas Hennen 69
+Terence Henricks 69
+Mirosław Hermaszewski 80
+José M. Hernández 59
+John Herrington 63
+Richard Hieb 66
+Joan Higginbotham 57
+David Hilmers 71
+Robert Hines 46
+Kathryn Hire 62
+Charles Hobaugh 60
+Warren Hoburg 36
+Jeffrey Hoffman 77
+Donald Holmquest 82
+Michael S. Hopkins 52
+Scott Horowitz 64
+Akihiko Hoshide 52
+Douglas G. Hurley 55
+Aleksandr Ivanchenkov 81
+Anatoli Ivanishin 52
+Georgi Ivanov 81
+Marsha Ivins 70
+Mae Jemison 65
+Tamara E. Jernigan 62
+Brent W. Jett, Jr. 63
+Jing Haipeng 55
+Gregory C. Johnson 67
+Gregory H. Johnson 59
+Thomas D. Jones 66
+Zenon Jankowski 83
+Alexander Kaleri 65
+Janet L. Kavandi 62
+James M. Kelly 57
+Mark Kelly 57
+Scott Kelly 57
+Joseph Kerwin 89
+Robert S. Kimbrough 54
+Petr Klimuk 79
+Yelena Kondakova 64
+Dmitri Kondratyev 52
+Oleg Kononenko 57
+Timothy L. Kopra 58
+Mikhail Korniyenko 61
+Valery Korzun 68
+Oleg Kotov 56
+Vladimir Kovalyonok 79
+Konstantin Kozeyev 53
+Kevin Kregel 65
+Sergei Krikalev 63
+Sergey Kud-Sverchkov 38
+André Kuipers 63
+Robb Kulin 37
+Aleksandr Laveykin 70
+Wendy Lawrence 62
+Aleksandr Lazutkin 64
+Valentin Lebedev 79
+Mark C. Lee 69
+David Leestma 72
+Frederick W. Leslie 69
+Byron Lichtenberg 73
+Don Lind 91
+Kjell N. Lindgren 48
+Steven Lindsey 61
+Jerry Linenger 66
+Richard Linnehan 64
+Gregory Linteris 64
+Liu Wang 52
+Liu Yang 43
+Paul Lockhart 65
+Yuri Lonchakov 56
+Michael Lopez-Alegria 63
+Christopher Loria 61
+Jack Lousma 85
+Stanley G. Love 56
+Jim Lovell 93
+Edward Lu 58
+Shannon Lucid 78
+Steven MacLean 66
+Sandra Magnus 57
+Yuri Malenchenko 59
+Franco Malerba 75
+Ravish Malhotra 77
+Musa Manarov 70
+Nicole Aunapu Mann 44
+Thomas Marshburn 61
+Michael Massimino 59
+Richard Mastracchio 61
+Matthias Maurer 51
+Thomas Kenneth "Ken" Mattingly II 85
+K. Megan McArthur 50
+William S. McArthur 70
+Jon McBride 78
+Anne McClain 42
+Michael J. McCulley 78
+James McDivitt 92
+Donald McMonagle 69
+Carl Meade 70
+Jessica Meir 44
+Bruce Melnick 71
+Pamela Melroy 60
+Mike Melvill 80
+Leland D. Melvin 57
+Ulf Merbold 80
+Ernst Messerschmid 76
+Dorothy M. Metcalf-Lindenburger 46
+Aleksandr Misurkin 44
+Andreas Mogensen 45
+Jasmin Moghbeli 38
+Mamoru Mohri 73
+Andrew R. Morgan 45
+Barbara Morgan 69
+Lee Morin 69
+Beth Moses 41
+Chiaki Mukai 69
+Richard Mullane 76
+Talgat Musabayev 70
+Story Musgrave 86
+George Nelson 71
+Rodolfo Neri Vela 69
+Paolo A. Nespoli 64
+James H. Newman 65
+Claude Nicollier 77
+Nie Haisheng 57
+Soichi Noguchi 56
+Carlos I. Noriega 62
+Oleg Novitskiy 50
+Lisa Nowak 58
+Karen Nyberg 52
+Bryan O'Connor 75
+Ellen Ochoa 63
+William Oefelein 56
+Loral O'Hara 38
+John D. Olivas 55
+Takuya Onishi 45
+Yuri Onufrienko 60
+Stephen Oswald 70
+Aleksey Ovchinin 50
+Gennady Padalka 63
+William Pailes 69
+Scott Parazynski 60
+Robert Parker 84
+Luca Parmitano 45
+Nicholas Patrick 56
+James Pawelczyk 61
+Julie Payette 58
+Gary Payton 73
+Timothy Peake 49
+Philippe Perrin 58
+Thomas Pesquet 43
+Donald Pettit 66
+Phạm Tuân 74
+John Phillips 70
+Mark Polansky 65
+Alexander Poleshchuk 68
+Valeri Polyakov 79
+Marcos Pontes 58
+Leonid Popov 76
+Charles Precourt 66
+Dumitru Prunariu 69
+William Readdy 69
+Kenneth Reightler 70
+James F. Reilly 67
+Garrett Reisman 53
+Thomas Reiter 63
+Vladimír Remek 73
+Sergei Revin 55
+Paul W. Richards 57
+Richard N. Richards 75
+Stephen Robinson 66
+Roman Romanenko 50
+Yuri Romanenko 77
+Kent Rominger 65
+Jerry L. Ross 73
+Kathleen (Kate) Rubins 43
+Mario Runco, Jr. 69
+Sergei Ryazanski 46
+Valery Ryumin 82
+Sergey Ryzhikov 47
+Albert Sacco 72
+David Saint-Jacques 51
+Aleksandr Samokutyayev 51
+Robert Satcher 56
+Sultan bin Salman bin Abdulaziz Al Saud 65
+Viktor Savinykh 81
+Svetlana Savitskaya 73
+Hans Schlegel 70
+Harrison Schmitt 86
+Rusty Schweickart 86
+David Scott 89
+Winston Scott 71
+Paul Scully-Power 77
+Rhea Seddon 74
+Ronald Sega 68
+Yelena Serova 45
+Yuri Shargin 61
+Salizhan Sharipov 57
+Rakesh Sharma 72
+Helen Sharman 58
+Brewster Shaw 76
+William Shepherd 72
+Anton Shkaplerov 49
+Loren Shriver 77
+Sheikh Muszaphar Shukor 49
+Oleg Skripochka 51
+Aleksandr Skvortsov 55
+Steven Smith 62
+Anatoly Solovyev 73
+Vladimir Solovyov 74
+Sherwood Spring 77
+Robert Springer 79
+Thomas Patten Stafford 91
+Heidemarie Stefanyshyn-Piper 58
+Robert Stewart 79
+Susan Still Kilrain 60
+Nicole Marie Passonno Stott 58
+Mark Stucky 63
+Frederick Sturckow 60
+Kathryn Sullivan 70
+Maksim Surayev 49
+Steven Swanson 60
+Arnaldo Tamayo Méndez 79
+Daniel Tani 60
+Joseph Tanner 71
+Evgeny Tarelkin 46
+Valentina Tereshkova 84
+Norman Thagard 78
+Gerhard Thiele 68
+Robert Thirsk 68
+Andrew Thomas 69
+Donald Thomas 66
+Kathryn Thornton 69
+Pierre Thuot 66
+Vladimir Titov 74
+Michel Tognini 72
+Valery Tokarev 69
+Sergei Treshchov 63
+Eugene Trinh 71
+Richard Truly 84
+Bjarni Tryggvason 76
+Vasili Tsibliyev 67
+Mikhail Tyurin 61
+Yury Usachov 64
+Lodewijk van den Berg 89
+James "Ox" van Hoften 77
+Mark Vande Hei 55
+Ivan Vagner 36
+Franz Viehböck 61
+Alexander Viktorenko 74
+Pavel Vinogradov 68
+Terry Virts 53
+Roberto Vittori 57
+Alexander Volkov 73
+Sergey Volkov 48
+Boris Volynov 86
+James Voss 72
+Koichi Wakata 58
+Rex Walheim 59
+Charles D. Walker 73
+Shannon Walker 56
+Ulrich Walter 67
+Carl Walz 66
+Taylor Wang 81
+Wang Yaping 41
+Jessica Watkins 33
+Mary Weber 59
+James Wetherbee 68
+Douglas Wheelock 61
+Peggy Whitson 61
+Terrence Wilcutt 72
+Dafydd Williams 67
+Jeffrey Williams 63
+Sunita "Suni" Williams 56
+Barry Wilmore 58
+Stephanie Wilson 55
+Gregory R. Wiseman 46
+Peter Wisoff 63
+David Wolf 65
+Neil Woodward 59
+Naoko Yamazaki 50
+Yang Liwei 56
+Aleksei Yeliseyev 87
+Yi So-yeon 43
+Kimiya Yui 51
+Fyodor Yurchikhin 62
+Sergei Zalyotin 59
+Zhai Zhigang 55
+Vitaliy Zholobov 84
+Vyacheslav Zudov 79
