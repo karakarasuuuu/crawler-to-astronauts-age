@@ -36,3 +36,6 @@ The age will be something like `(age 54)`, I think it is simple enough so I just
 ## data.txt and data_age.txt
 The raw result is also stored in a data.txt file, and the sorted result by age is stored in data_age.txt.  
 Format: `{name} {age}`
+
+## Reference
+[Python 網路爬蟲 Web Crawler 教學 — Beautiful Soup 篇](https://seanchien0525.medium.com/python-requests-beautifulsoup-%E7%88%AC%E8%9F%B2%E6%95%99%E5%AD%B8-83d146faa9e8)  
