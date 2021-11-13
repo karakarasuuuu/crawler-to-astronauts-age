@@ -10,7 +10,7 @@ if __name__ == "__main__":
     soup = BeautifulSoup(web.text, "html.parser")
 
     ul = soup.select('.mw-parser-output > ul')
-    for i, item in enumerate(ul):
+    for item in ul:
         li = item.select('li')
         for it in li:
             a = it.select('a')
